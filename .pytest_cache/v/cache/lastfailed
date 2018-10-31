@@ -1,0 +1,8 @@
+{
+  "test/index_test.py::TestOneToManyRelationships::test_artist_instance_methods": true,
+  "test/index_test.py::TestOneToManyRelationships::test_artist_property_methods": true,
+  "test/index_test.py::TestOneToManyRelationships::test_genre_instance_methods": true,
+  "test/index_test.py::TestOneToManyRelationships::test_genre_property_methods": true,
+  "test/index_test.py::TestOneToManyRelationships::test_song_class_method": true,
+  "test/index_test.py::TestOneToManyRelationships::test_song_property_methods": true
+}
